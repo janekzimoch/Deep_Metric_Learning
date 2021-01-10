@@ -1,2 +1,2 @@
-# Deep_Metric_Learning
-Project on image similarity classfication using Deep Metric Learning
+# Deep_Metric_Learning (portfolio repository)
+This repository contains my code and report for a project on imgae similarity classification using Deep Metric Learning. All code was written by myself (using internet). The project was completed in two weeks and it was the first time I wrote with several modules distriuted across multiple directories, which is why it looks so messy (having tight time constraints I had not time to clean it). It was also my first time using Keras and first time learning about Deep Metric Learning. I am super happy with the prrogres i have made in 2 weeks! 
